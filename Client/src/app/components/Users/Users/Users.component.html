@@ -1,0 +1,17 @@
+<div class="users">
+  <h2> Users:</h2>
+  <h6>you can serach By name </h6>
+  <h6>click on User id to see his Posts and Todos</h6>
+  <h6>click on 'Add user' to create User</h6>
+
+
+  <input type="email" class="form-control" id="search-text" aria-describedby="search-text" 
+          [(ngModel)]="searchText" placeholder="Enter text to search" 
+          autofocus>
+          <br/>
+  
+        </div>
+        <button class="btn btn-primary btn-sm" (click)="addNewUser()">Add User</button>
+  <div class="usersList"> 
+  <app-User  *ngFor="let user of users | appSerach:searchText" [userInput]="user" (delete)="deleteUser($event)" ></app-User>
+  </div>

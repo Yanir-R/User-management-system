@@ -1,0 +1,19 @@
+
+<form #f="ngForm" *ngFor="let todo of todos; let i = index" class="todoForm" (ngSubmit)="markTodoCompleted(i)" novalidate>
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label>To-do Id:</label>
+      <input type="text" class="form-control" placeholder="{{todo.id}}" 
+        required>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label>To-Do Title:</label>
+      <input type="text" class="form-control"  placeholder="{{todo.title }}" 
+        required>
+    </div>
+    </div>
+  <div *ngIf="!todo.completed">
+    <button class="btn btn-primary btn-sm" type="submit" >Mark Completed</button>
+  </div>
+ 
+</form>

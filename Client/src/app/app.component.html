@@ -1,0 +1,45 @@
+    <div class="container">
+        <div class="row">
+
+                  <!-- Left Side  -->
+
+          <div class="col-lg-6 col-md-6 col-sm-6">
+            <app-Users (addUserEvent)="this.addUser = true;"></app-Users>
+          </div>
+
+                  <!-- Right Side -->
+          
+          <div class="col-lg-6 col-md-6 col-sm-6" *ngIf="!addUser">
+            <div *ngIf="currentUser" class="rightSide">
+              <div class="mb-2">
+                <h3 class="d-inline">Todos</h3>
+                <button *ngIf="!addTodo" class="btn btn-outline-success btn-sm float-right" (click)="addTodo = true">Add Todo</button>
+              </div>
+              <div *ngIf="!addTodo">
+                <app-toDos></app-toDos>
+              </div>
+              <div *ngIf="addTodo">
+                <app-addTodo (cancel)="addTodo = false"></app-addTodo>
+              </div>
+              <hr class="w-50">
+              <div class="mb-2">
+                <h3 class="d-inline">Posts</h3>
+                <button *ngIf="!addPost" class="btn btn-outline-success btn-sm float-right" (click)="addPost = true">Add Post</button>
+                <!-- Add Post Logic here -->
+              </div>
+              <div *ngIf="!addPost">
+                <app-Posts></app-Posts>
+              </div>
+              <div *ngIf="addPost">
+                <app-addPost (cancel)="addPost = false"></app-addPost>
+              </div>
+              
+            </div>
+          </div>
+          <div class="col-lg-6" *ngIf="addUser">
+            <app-addUser (submitUserEvent)="this.addUser = false;"></app-addUser>
+
+          </div>
+        </div>
+      </div>
+

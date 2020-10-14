@@ -1,0 +1,19 @@
+<form #f="ngForm" *ngFor="let post of posts" class="needs-validation" novalidate>
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label>User Id:</label>
+      <input type="text" class="form-control"  placeholder="{{post.userId}}" 
+        required>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label>Title:</label>
+      <input type="text" class="form-control"  placeholder="{{post.title}}" 
+        required>
+    </div>
+    <div class="col-md-4 mb-3">
+     <label>Body:</label>
+      <input type="text" class="form-control"  placeholder="{{post.body}}" 
+        required> 
+    </div>
+    </div>
+</form>

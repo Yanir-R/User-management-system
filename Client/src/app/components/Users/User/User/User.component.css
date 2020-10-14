@@ -1,0 +1,33 @@
+.card-body
+{
+    border-radius: 7px;
+    border-style: groove;
+    border-color: rgb(168, 155, 155);
+    padding: 10px;
+    border-width: 1px;
+    margin-bottom: 20px;
+    
+}
+
+.updateButton{
+    margin-bottom: 10px;
+}
+#otherData 
+{   
+    border-radius: 7px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(231, 210, 171, 0.63);
+
+}
+
+#choosenUser
+{
+    background-color: rgba(231, 210, 171, 0.63); 
+}
+
+#unchoosenUser
+{
+    background-color: white;
+}
+

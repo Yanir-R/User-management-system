@@ -1,0 +1,24 @@
+.users
+{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.usersList{
+    border-radius: 7px;
+    border-style: groove;
+    border-color: black;
+    padding: 10px;
+    border-width: 2px;
+}
+
+#otherData 
+{   
+    border-radius: 7px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(211, 207, 207);
+
+}
+
+

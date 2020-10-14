@@ -1,0 +1,56 @@
+<div class="user" [id]="choosenUser? 'choosenUser': 'unchoosenuser'">
+  <div class="card-body"  [style.border-color]=" unCompletedTodos ? 'red' : 'green' "  >
+    <div class="card-body" >
+      <button  class="btn btn-primary" (click)="showInfo()" >
+        Id: {{userInput.id}}
+      </button>
+  
+  <form #userDetails="ngForm"   (ngSubmit)="updateVal(userDetails.value)"   novalidate >
+    
+      <div class="form-group">
+        <label for="name">Full name:</label>
+        <input type="text" name="name" id="name" class="form-control" [(ngModel)]="this.userInput.name"/>
+    
+      </div>
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email"  class="form-control"[(ngModel)]="this.userInput.email"/>
+     
+      </div>
+      <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" name="username" id="username" class="form-control" [(ngModel)]="this.userInput.username" />
+    
+      </div>
+      <div class="other-data">
+        <button class="btn btn-primary btn-sm" (mouseover)="mouseOver=true" (click)="mouseOver=false">
+        Other Data
+        </button>
+      </div>
+        <div class="col-md-8 mb-3" [id]="mouseOver ? 'otherData' : 'other-id'" >
+          <div class="col-md-4 mb-3" *ngIf="mouseOver">
+            <div class="form-group">
+              <label for="city">City:</label>
+              <input type="text" name="city" id="city" class="form-control" [(ngModel)]="this.userInput.address.city"   />
+           
+            </div>
+            <div class="form-group">
+              <label for="street">Street:</label>
+              <input type="text" name="street" id="street" class="form-control" [(ngModel)]="this.userInput.address.street"  />
+          
+            </div>
+          </div>
+        </div>
+        <div class="updateButton">
+          <button type="submit" class="btn btn-primary btn-sm"  [disabled]="userDetails.pristine || userDetails.invalid">
+            Update
+          </button>
+        </div>
+        <div class="deleteButton">
+          <button class="btn btn-danger btn-sm" #delete (click)="deleteVal(userInput.id)">Delete</button>
+        </div>
+    
+  </form>
+  </div>
+  </div>
+</div>

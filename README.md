@@ -1,4 +1,4 @@
-## Table of Contents
+## Table of Contents [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 - [Introduction](#Introduction)
 - [Get Started](#startPoint)
@@ -6,10 +6,12 @@
 - [Technologies](#Technologies)
 
 
-## Introduction [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+## Introduction 
 User management system, each user has messages and tasks associated only with him.
 
 ## Get Started
+ #### Clone the repo:
+<code> https://github.com/Yanir-R/User-management-system.git </code>
 
 ## Features
 A few of the things you can do with my User management system:

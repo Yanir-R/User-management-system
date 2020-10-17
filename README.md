@@ -35,7 +35,8 @@ Include logo/demo screenshot etc.
 Ex. -
 
 <b>Built with</b>
-- [<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40" />](https://code.visualstudio.com/) 
+[<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css />](https://code.visualstudio.com/) 
+
 
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.

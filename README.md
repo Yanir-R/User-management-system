@@ -23,7 +23,7 @@
 User management system, any user can create, modify, view and delete,
 You can choose to view all users or search by username or email.
 
-When you click on an existing user it will open its tasks and posts for you
+Clicking on this user will open his tasks and posts
 
 ## Features
 A few of the things you can do with my User management system:

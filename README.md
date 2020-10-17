@@ -26,14 +26,18 @@ You can choose to view all users or search by username or email.
 Clicking on this user will open his tasks and posts
 
 ## Features
-A few of the things you can do with my User management system:
-* [Search by username or email](#search)
-* [Add & remove user](#addRemoveUser)
-* [Adding new tasks and messages for a user](#addNewTodo)
-* [click on the user id, the messages and tasks of that user will opened](#userId)
+A [x]few of the things you can do with my User management system:
+* [x]Add & remove user
+* [x]Adding new tasks and messages for a user
+* [x]click on the user id, the messages and tasks of that user will opened
+* [x]Search by username or email
+
+
+
+## Motivation
+I created the project in order to specialize in the technologies I used and show my programming abilities
 
 ## Technologies
-
 [<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/)
 [<img src=https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg width="40" height="40" />](https://angular.io/)
 [<img src=https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg width="40" height="40" />](https://en.wikipedia.org/wiki/HTML5)
@@ -42,13 +46,6 @@ A few of the things you can do with my User management system:
 [<img src=https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg width="40" height="40" />](https://github.com/microsoft/TypeScript)
 [<img src=https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg width="40" height="40" />](https://www.mongodb.com/)
 [<img src=https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg width="40" height="40" />](https://nodejs.org/en/)
-
-## Motivation
-I created the project in order to specialize in the technologies I used and show my programming abilities
-
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
-
 
 #### Anything else that seems useful
 

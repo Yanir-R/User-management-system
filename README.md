@@ -46,7 +46,5 @@ I created the project in order to specialize in the technologies I used and show
 [<img src=https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg width="40" height="40" />](https://www.mongodb.com/)
 [<img src=https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg width="40" height="40" />](https://nodejs.org/en/)
 
-#### Anything else that seems useful
-
 ## License
 MIT © [Yanir-r]()

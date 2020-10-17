@@ -20,7 +20,7 @@
 - [Technologies](#Technologies)
 - [Motivation](#Motivation)
 
-## Introductions
+## Introduction
 User management system, any user can create, modify, view and delete,
 You can choose to view all users or search by username or email.
 
@@ -33,7 +33,7 @@ Clicking on this user will open his tasks and posts
 - [x] Search by username or email
 - [ ]  Registration and login 
 
-## Instruction
+## Instructions
 - In the first run you will get a list of 10 users.
 - It is possible to search by username or email.
 - Each user has the option to edit his details.

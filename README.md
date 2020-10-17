@@ -1,3 +1,10 @@
+<img src=https://www.kindpng.com/picc/m/237-2374954_smart-warehouse-management-system-technologies-logo-end-user.png width="900" height="350" />
+
+## Get Started
+ #### Clone the repo:
+<code> https://github.com/Yanir-R/User-management-system.git </code>
+
+
 ## Table of Contents [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 - [Introduction](#Introduction)
@@ -8,10 +15,6 @@
 
 ## Introduction 
 User management system, each user has messages and tasks associated only with him.
-
-## Get Started
- #### Clone the repo:
-<code> https://github.com/Yanir-R/User-management-system.git </code>
 
 ## Features
 A few of the things you can do with my User management system:

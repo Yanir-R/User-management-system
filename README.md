@@ -16,11 +16,11 @@
 
 - [Introduction](#Introduction)
 - [Features](#features)
-- [Instruction](#Instruction)
+- [Instructions](#Instructions)
 - [Technologies](#Technologies)
 - [Motivation](#Motivation)
 
-## Introduction 
+## Introductions
 User management system, any user can create, modify, view and delete,
 You can choose to view all users or search by username or email.
 

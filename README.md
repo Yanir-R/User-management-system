@@ -16,6 +16,7 @@
 
 - [Introduction](#Introduction)
 - [Features](#features)
+- [Instruction](#Instruction)
 - [Technologies](#Technologies)
 - [Motivation](#Motivation)
 
@@ -32,7 +33,7 @@ Clicking on this user will open his tasks and posts
 - [x] Search by username or email
 - [ ]  Registration and login 
 
-## How to use
+## Instruction
 - In the first run you will get a list of 10 users.
 - It is possible to search by username or email.
 - Each user has the option to edit his details.

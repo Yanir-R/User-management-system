@@ -41,11 +41,11 @@ Clicking on this user will open his tasks and posts
 - Hovering the mouse over the "Other Data" button will reveal user's address.
 - It is possible to add users.
 
-User border color inidicates the tasks status:
+#### User border color inidicates the tasks status:
 * Red - The user has unfinished tasks.
 * Green - The user has no unfinished tasks.
 
-Use of posts and tasks:
+#### Use of posts and tasks:
 
 - Clicking on the user ID number will reveal his tasks and posts.
 - It is possible to add a new task, by clicking on the "Add" button located on the right side of the screen next to the Todos title.

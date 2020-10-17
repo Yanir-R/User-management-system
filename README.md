@@ -31,7 +31,7 @@ Clicking on this user will open his tasks and posts
 - [x] Adding new tasks and messages for a user
 - [x] click on the user id, the messages and tasks of that user will opened
 - [x] Search by username or email
-- []  Registration and login 
+- [ ]  Registration and login 
 
 ## Motivation
 I created the project in order to specialize in the technologies I used and show my programming abilities

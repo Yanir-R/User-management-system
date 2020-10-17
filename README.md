@@ -7,7 +7,7 @@
 <code> npm i </code>
 #### Run the Server:
 <code> nodemon server.js </code>
-###### this script run [nodemon](https://www.npmjs.com/package/nodemon) a wapper for node, will restart the server on file changes
+###### [nodemon](https://www.npmjs.com/package/nodemon) a wapper for node, will restart the server on file changes
 #### Run The Client:
 <code> ng serve </code>
 ###### [ng serve](https://angular.io/cli/serve) build and serves the client side, will also restart the service on file changes

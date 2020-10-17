@@ -2,8 +2,7 @@
 
 ## Get Started
  #### Clone the repo:
- ###### git clone:
-<code> https://github.com/Yanir-R/User-management-system.git </code>
+<code> git clone https://github.com/Yanir-R/User-management-system.git </code>
 #### Install dependencies :
 <code> npm i </code>
 #### Run the Server:

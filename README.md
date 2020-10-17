@@ -26,13 +26,12 @@ You can choose to view all users or search by username or email.
 Clicking on this user will open his tasks and posts
 
 ## Features
-A [x]few of the things you can do with my User management system:
-* [x]Add & remove user
-* [x]Adding new tasks and messages for a user
-* [x]click on the user id, the messages and tasks of that user will opened
-* [x]Search by username or email
-
-
+- [x] few of the things you can do with my User management system:
+- [x] Add & remove user
+- [x] Adding new tasks and messages for a user
+- [x] click on the user id, the messages and tasks of that user will opened
+- [x] Search by username or email
+- []  Registration and login 
 
 ## Motivation
 I created the project in order to specialize in the technologies I used and show my programming abilities

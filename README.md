@@ -3,12 +3,12 @@
 ## Get Started
  #### Clone the repo:
 <code> https://github.com/Yanir-R/User-management-system.git </code>
-### Install NPM in both folders using this command :
+#### Install NPM in both folders using this command :
 <code> npm i </code>
 #### Run the Server side using the command:
 <code> nodemon server.js </code>
 ###### this script run [nodemon](https://www.npmjs.com/package/nodemon) it will import the information from the API
-### Run The Client side using this command:
+#### Run The Client side using this command:
 <code> ng serve </code>
 ###### [This command will compile Angular and build the project](https://angular.io/cli/serve)
 

@@ -1,9 +1,9 @@
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Get Started](#startPoint)
 - [Features](#features)
-- [Built with](#Built with)
+- [Technologies](#Technologies)
 
 
 ## Introduction [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
@@ -32,7 +32,7 @@ If you're using any code style like xo, standard etc. That will help others whil
 ## Screenshots
 Include logo/demo screenshot etc.
 
-## Built with
+## Technologies
 
 [<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/)
 [<img src=https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg width="40" height="40" />](https://angular.io/)

@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Get Started](#startPoint)
 - [Features](#features)
+- [Built with](#Built with)
 
 
 ## Introduction [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
@@ -31,11 +32,18 @@ If you're using any code style like xo, standard etc. That will help others whil
 ## Screenshots
 Include logo/demo screenshot etc.
 
-## Tech/framework used
-Ex. -
+## Built with
 
-<b>Built with</b>
-[<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/) 
+[<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/)
+[<img src=https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg width="40" height="40" />](https://angular.io/)
+[<img src=https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg width="40" height="40" />](https://en.wikipedia.org/wiki/HTML5)
+[<img src=https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg width="40" height="40" />](https://css-tricks.com/)
+[<img src=https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg width="40" height="40" />](https://www.javascript.com/)
+[<img src=https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg width="40" height="40" />](https://github.com/microsoft/TypeScript)
+[<img src=https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg width="40" height="40" />](https://www.mongodb.com/)
+[<img src=https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg width="40" height="40" />](https://nodejs.org/en/)
+
+
 
 
 ## Code Example

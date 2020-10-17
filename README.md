@@ -33,6 +33,25 @@ Clicking on this user will open his tasks and posts
 - [x] Search by username or email
 - [ ]  Registration and login 
 
+## How to use
+- In the first run you will get a list of 10 users.
+- It is possible to search by username or email.
+- Each user has the option to edit his details.
+- It is possible to delete any user, when you click on delete a user will also delete his tasks and posts.
+- Hovering the mouse over the "Other Data" button will reveal the user's address, clicking the mouse will cancel the exposure.
+- It is possible to add a user.
+
+Each user's the edges of his square are red or green:
+* Red - The user has unfinished tasks.
+* Green - The user has no unfinished tasks.
+
+Use of posts and tasks:
+
+- Clicking on the user ID number will reveal his tasks and posts.
+- It is possible to add a new task, by clicking on the "Add" button located on the right side of the screen next to the Todos title.
+Uncompleted tasks will have a "mark completed" button, when you click the button the task will change to complete.
+- It is possible to add a new post by clicking on the "Add" button next to the Posts heading.
+
 ## Motivation
 I created the project in order to specialize in the technologies I used and show my programming abilities
 

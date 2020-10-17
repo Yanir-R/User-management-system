@@ -2,15 +2,16 @@
 
 ## Get Started
  #### Clone the repo:
+ ######git clone(url):
 <code> https://github.com/Yanir-R/User-management-system.git </code>
-#### Install NPM in both folders using this command :
+#### Install dependencies :
 <code> npm i </code>
-#### Run the Server side using the command:
+#### Run the Server:
 <code> nodemon server.js </code>
-###### this script run [nodemon](https://www.npmjs.com/package/nodemon) it will import the information from the API
-#### Run The Client side using this command:
+###### this script run [nodemon](https://www.npmjs.com/package/nodemon) a wapper for node, will restart the server on file changes
+#### Run The Client:
 <code> ng serve </code>
-###### [ng serve](https://angular.io/cli/serve) This command will compile Angular and build the project
+###### [ng serve](https://angular.io/cli/serve) build and serves the client side, will also restart the service on file changes
 
 ## Table of Contents [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 

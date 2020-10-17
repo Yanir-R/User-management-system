@@ -34,14 +34,14 @@ Clicking on this user will open his tasks and posts
 - [ ]  Registration and login 
 
 ## Instructions
-- In the first run you will get a list of 10 users.
+- Initially the application prepopulated with 10 users.
 - It is possible to search by username or email.
 - Each user has the option to edit his details.
-- It is possible to delete any user, when you click on delete a user will also delete his tasks and posts.
-- Hovering the mouse over the "Other Data" button will reveal the user's address, clicking the mouse will cancel the exposure.
-- It is possible to add a user.
+- deleting a user will also delete related tasks and posts.
+- Hovering the mouse over the "Other Data" button will reveal user's address.
+- It is possible to add users.
 
-Each user's the edges of his square are red or green:
+User border color inidicates the tasks status:
 * Red - The user has unfinished tasks.
 * Green - The user has no unfinished tasks.
 

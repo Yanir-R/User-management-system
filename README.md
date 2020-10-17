@@ -27,7 +27,6 @@ You can choose to view all users or search by username or email.
 Clicking on this user will open his tasks and posts
 
 ## Features
-- [x] few of the things you can do with my User management system:
 - [x] Add & remove user
 - [x] Adding new tasks and messages for a user
 - [x] click on the user id, the messages and tasks of that user will opened
@@ -54,7 +53,7 @@ Uncompleted tasks will have a "mark completed" button, when you click the button
 - It is possible to add a new post by clicking on the "Add" button next to the Posts heading.
 
 ## Motivation
-I created the project in order to specialize in the technologies I used and show my programming abilities
+I created the project in order to specialize in the technologies I used and demonstrate my programming abilities
 
 ## Technologies
 [<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/)

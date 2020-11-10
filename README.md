@@ -31,7 +31,6 @@ Clicking on this user will open his tasks and posts
 - [x] Adding new tasks and messages for a user
 - [x] click on the user id, the messages and tasks of that user will opened
 - [x] Search by username or email
-- [ ]  Registration and login 
 
 ## Instructions
 - Initially the application prepopulated with 10 users.

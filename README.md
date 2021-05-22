@@ -55,14 +55,13 @@ Uncompleted tasks will have a "mark completed" button, when you click the button
 I created the project in order to specialize in the technologies I used and demonstrate my programming abilities
 
 ## Technologies
-[<img src=https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg width="40" height="40"/>](https://code.visualstudio.com/)
-[<img src=https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg width="40" height="40" />](https://angular.io/)
-[<img src=https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg width="40" height="40" />](https://en.wikipedia.org/wiki/HTML5)
-[<img src=https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg width="40" height="40" />](https://css-tricks.com/)
-[<img src=https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg width="40" height="40" />](https://www.javascript.com/)
-[<img src=https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg width="40" height="40" />](https://github.com/microsoft/TypeScript)
-[<img src=https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg width="40" height="40" />](https://www.mongodb.com/)
-[<img src=https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg width="40" height="40" />](https://nodejs.org/en/)
+[<img src="https://img.icons8.com/nolan/64/angularjs.png" alt="angular"/>](https://angular.io/)
+[<img src="https://img.icons8.com/nolan/64/html-5.png"  alt="html"/>](https://en.wikipedia.org/wiki/HTML5)
+[<img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>](https://css-tricks.com/)
+[<img src="https://img.icons8.com/nolan/64/js.png" alt="javascript"/>](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>](https://github.com/microsoft/TypeScript)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>](https://www.mongodb.com/)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>](https://nodejs.org/en/)
 
 ## License
 MIT © [Yanir-r]()
